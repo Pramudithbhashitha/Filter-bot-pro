@@ -3,17 +3,17 @@
 - `DATA BASE`: Sqlalchemy Database
 - `DATA LIMIT`: 10000
 
-My New Updates In This [Channel](https://t.me/DX_Botz)
+https://telegra.ph/file/732de5ee92d72b2a737c3.jpg
 
-Our Beta [Filter Bot](https://t.me/Filters_Robot).
+Our Beta [Filter Bot](https://t.me/Filterpro_nbot).
 
-Alternatively, [find me on telegram](https://t.me/D_ar_k_Angel)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/P_BHASHITHA)! (Keep all support questions in the support chat, where more people can help you.)
 
 ### Easy Way to Deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pramudithbhashitha/Filter-Bot)
 
-## HOW TO DEPLOY YOUTUBE TUTORIAL
+## HOW TO DEPLOY 
 
 ### Configuration
 
