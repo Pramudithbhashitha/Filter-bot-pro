@@ -38,7 +38,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "1101669144"
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
@@ -52,12 +52,12 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "699615803 809546777"
+         "value": ""
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "1101669144"
       },
      
       "TOKEN": {
@@ -78,7 +78,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "1101669144"
       }
    },
    "keywords": [
@@ -89,7 +89,7 @@
       "Filter Bot"
       
    ],
-   "name": "Filter Bot",
+   "name": "Filter pro",
    "repository": "https://github.com/Jijinr/Filter-Bot",
    "success_url": "https://telegram.dog/Filters_Robot",
    "logo": "https://telegra.ph/file/32818d7b01045798980e8.jpg"
