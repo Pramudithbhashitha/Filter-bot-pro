@@ -33,7 +33,7 @@
       },
       "OWNER_NAME": {
          "description": "Enter Your Name",
-         "value": "𒆜DⱥℝkͥAnͣgͫeℓ𒆜"
+         "value": "ᴘʀᴀᴍᴜᴅɪᴛʜ ʙʜᴀsʜɪᴛʜᴀ"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -42,7 +42,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/fc734b227985a1524e715.jpg"    
+         "value": "https://telegra.ph/file/732de5ee92d72b2a737c3.jpg"    
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
