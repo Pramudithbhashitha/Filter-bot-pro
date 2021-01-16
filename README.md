@@ -2,9 +2,9 @@
 
 - `DATA BASE`: Sqlalchemy Database
 - `DATA LIMIT`: 10000
-
+<p>
 <img src="https://telegra.ph/file/732de5ee92d72b2a737c3.jpg
-" width =400 Height=400 ></img>
+" width =400 Height=400 ></img></p>
 
 
 
