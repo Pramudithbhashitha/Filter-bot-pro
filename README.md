@@ -14,7 +14,7 @@ Alternatively, [find me on telegram](https://t.me/P_BHASHITHA)! (Keep all suppor
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pramudithbhashitha/Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pramudithbhashitha/Filter-bot-pro)
 
 ## HOW TO DEPLOY 
 
