@@ -7,7 +7,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "description": "Telegram's Best Filter Bot😴Developed By DX_Botz",
+   "description": "Telegram's Best Filter Bot😴Developed By BHASHITHA ",
    "env": {
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /",
